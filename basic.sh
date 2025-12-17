@@ -1,1 +1,1 @@
-echo "this is test file"
+echo "hello from the github"
